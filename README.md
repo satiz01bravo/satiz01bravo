@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sathishkumar, you can call me Satiz (Sounds same)
+- 👀 I’m interested in debugging, although i am noob
+- 🌱 I’m currently learning python, little bit i know 'C'
+- 💞️ I’m looking to collaborate on anything new or something which excites me
+- 📫 How to reach me satiz01bravo@gmail.com
